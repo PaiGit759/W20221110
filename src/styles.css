@@ -1,0 +1,15 @@
+.mainNav {
+  color: yellowgreen;
+  background-color: lightgrey;
+}
+
+.navButton {
+  color: rgb(231, 18, 220);
+  padding: 10px;
+  font-size: 2rem;
+  text-decoration: none;
+}
+
+.navButton:hover {
+  color: rgb(21, 6, 224);
+}
